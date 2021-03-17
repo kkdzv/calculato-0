@@ -1,1 +1,1 @@
->_ calculator v.0
+calculator v.0
